@@ -19,10 +19,10 @@
   "eligtitle" : "tomoo",
   "eligcont" : "show",
   "showadtime" : "all",
-  "activateacc" : "0.65",
+  "activateacc" : "0.96",
   "islive" : "live",
-  "badgelimitamount" : "60",
+  "badgelimitamount" : "80",
   "showbadgeornot" : "True",
-  "till" : "ACELORDS SOLUTIONS",
+  "till" : ".",
   "payhero" : "https://payhero-api.onrender.com"
 }
