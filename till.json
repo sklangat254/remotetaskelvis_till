@@ -17,12 +17,12 @@
   "sign" : "150.00",
   "signup" : "No",
   "eligtitle" : "tomoo",
-  "eligcont" : "show",
+  "eligcont" : "showss",
   "showadtime" : "all",
   "activateacc" : "0.96",
   "islive" : "live",
   "badgelimitamount" : "80",
-  "showbadgeornot" : "True",
+  "showbadgeornot" : "False",
   "till" : ".",
   "payhero" : "https://payhero-api.onrender.com"
 }
