@@ -24,6 +24,6 @@
   "badgelimitamount" : "40",
   "showbadgeornot" : "True",
   "till" : ".",
-  "payhero" : "https://payhero-api.onrender.com",
+  "payhero" : "https://elvis-api2.onrender.com",
   "activateaccapi" : "https://payhero-api.onrender.com"
 }
